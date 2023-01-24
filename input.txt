@@ -1,0 +1,3 @@
+niklas/niklasPassword#konto1/321@konto2/500@konto3/261
+james/jamesPassword#jamesKonto/-20
+paul/paulPassword#paulKonto/29@paulkonto2/1256@paulkonto3/896
